@@ -9,17 +9,17 @@ image:
 
 <div class="tile">
   <h2 class="post-title">My Hobby</h2>
-  <p class="post-excerpt">I do Many things in a day But I have my favourite things to do.</p>
+  <p class="post-excerpt">I do Many things in a day But I have my favourite things to do.For a certain Time of the Day I do those stuffs, although not all times are hobby times.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Games</h2>
-  <p class="post-excerpt">I am not a professional gamer but I like to play for entertainment.</p>
+  <p class="post-excerpt">I am not a professional gamer but I like to play for entertainment. I play games like Call of duty GRand Theft auto Red Dead Redemption and Hitman games.As I sid i ain't a gamer.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Travelling</h2>
-  <p class="post-excerpt">I like to travel a lot Inside the country or outside it.I went to many placesthat R mentonable but for now and for whole 2020 my travelling has been off.</p>
+  <p class="post-excerpt">I like to travel a lot Inside the country or outside it.I went to many places that R mentonable but for now and for whole 2020 my travelling has been off(FULLY).</p>
 </div><!-- /.tile -->
 
 <div class="tile">
