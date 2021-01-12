@@ -18,13 +18,13 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <h2 class="post-title">Travelling</h2>
+  <p class="post-excerpt">I like to travel a lot Inside the country or outside it.I went to many placesthat R mentonable but for now and for whole 2020 my travelling has been off.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <h2 class="post-title">Making Foods</h2>
+  <p class="post-excerpt">Besides Eating I make my OWN Food for learning for fun for...other things.Some Food I like to make are what I like to eat(sometimes) But you can view all here.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
