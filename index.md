@@ -8,13 +8,13 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Built for Jekyll 3</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <h2 class="post-title">My Hobby</h2>
+  <p class="post-excerpt">I do Many things in a day But I have my favourite things to do.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <h2 class="post-title">Games</h2>
+  <p class="post-excerpt">I am not a professional gamer but I like to play for entertainment.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
