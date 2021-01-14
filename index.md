@@ -14,7 +14,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Games</h2>
-  <p class="post-excerpt">I am not a professional gamer but I like to play for entertainment. I play games like Call of duty GRand Theft auto Red Dead Redemption and Hitman games.As I sid i ain't a gamer.</p>
+  <p class="post-excerpt">I am not a professional gamer but I like to play for entertainment. I play games like Call of duty GRand Theft auto Red Dead Redemption and Hitman games.As I said i ain't a gamer.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
