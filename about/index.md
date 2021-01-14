@@ -18,3 +18,9 @@ This is a Portfolio Website about me. Its a start. Later on I will Update and Ma
 
 I like to travel a lot Inside the country or outside it.I went to many places that R mentonable but for now and for whole 2020 my travelling has been off(FULLY).
 {:.notice-info}
+
+### My hobby
+
+I do Many things in a day But I have my favourite things to do.For a certain Time of the Day I do those stuffs, although not all times are hobby times.
+{:.notice-success}
+
