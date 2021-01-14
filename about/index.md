@@ -15,3 +15,6 @@ ads: false
 ### This is a work in progress.
 
 This is a Portfolio Website about me. Its a start. Later on I will Update and Make Bigger sites,till then.
+
+I like to travel a lot Inside the country or outside it.I went to many places that R mentonable but for now and for whole 2020 my travelling has been off(FULLY).
+.notice-inverse
